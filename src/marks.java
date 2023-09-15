@@ -20,7 +20,7 @@ public class marks
         System.out.println("Fourth subject");
         int Fos;
         Fos=sc.nextInt();
-        System.out.println("Fifth subject");
+        System.out.println("gitFifth subject");
         int Fis;
         Fis=sc.nextInt();
         double total=fs+Ss+ts+Fos+Fis;
