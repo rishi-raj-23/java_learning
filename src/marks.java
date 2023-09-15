@@ -23,7 +23,7 @@ public class marks
         System.out.println("Fifth subject");
         int Fis;
         Fis=sc.nextInt();
-        int total=fs+Ss+ts+Fos+Fis;
+        double total=fs+Ss+ts+Fos+Fis;
         double percentage=total/500*100;
     ;
         if(percentage>=80)
