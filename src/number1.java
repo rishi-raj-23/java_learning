@@ -1,5 +1,5 @@
 import java.util.*;
-
+// program to find the greatest and smallest 3 digit number
 public class number1 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
